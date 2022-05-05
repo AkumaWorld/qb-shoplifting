@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'Bo Ek#2253'
+author 'LucyDrop#0644'
 description ''
 
 client_scripts {
