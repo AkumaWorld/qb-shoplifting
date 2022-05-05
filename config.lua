@@ -3,17 +3,17 @@ Config = {}
 Config.RandomItemAmount = 3
 
 Config.AlcoholRewards = {
-    { label = 'Whiskey', item = 'coke', amount = 2},
-    { label = 'Sprite', item = 'sprite', amount = 3},
-    { label = 'Cider', item = 'cider', amount = 4},
-    { label = 'Multivitamin', item = 'juice', amount = 5}, 
+    { label = 'Beer', item = 'beer', amount = 2},
+    { label = 'Whiskey', item = 'whiskey', amount = 3},
+    { label = 'Vodka', item = 'vodka', amount = 4},
+    { label = 'Wine', item = 'wine', amount = 5}, 
 }
 
 Config.items = {
-    { label = 'Coca cola', item = 'coke', amount = 2},
-    { label = 'Sprite', item = 'sprite', amount = 3},
-    { label = 'Cider', item = 'cider', amount = 4},
-    { label = 'Multivitamin', item = 'juice', amount = 5}, 
+    { label = 'Coca cola', item = 'kurkakola', amount = 2},
+    { label = 'Coffee', item = 'coffee', amount = 3},
+    { label = 'Water Bottle', item = 'water_bottle', amount = 4},
+    { label = 'Lighter', item = 'lighter', amount = 5}, 
 }
 
 Config.CoolDownTimer = 60
