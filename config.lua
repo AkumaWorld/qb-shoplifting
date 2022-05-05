@@ -3,17 +3,17 @@ Config = {}
 Config.RandomItemAmount = 3
 
 Config.AlcoholRewards = {
-    { label = 'Whiskey', item = 'coke', amount = 2, props = `prop_ecola_can` },
-    { label = 'Sprite', item = 'sprite', amount = 3, props = `prop_ld_can_01` },
-    { label = 'Cider', item = 'cider', amount = 4, props = `h4_prop_club_tonic_can`  },
-    { label = 'Multivitamin', item = 'juice', amount = 5, props = `prop_orang_can_01` }, 
+    { label = 'Whiskey', item = 'coke', amount = 2},
+    { label = 'Sprite', item = 'sprite', amount = 3},
+    { label = 'Cider', item = 'cider', amount = 4},
+    { label = 'Multivitamin', item = 'juice', amount = 5}, 
 }
 
 Config.items = {
-    { label = 'Coca cola', item = 'coke', amount = 2, props = `prop_ecola_can` },
-    { label = 'Sprite', item = 'sprite', amount = 3, props = `prop_ld_can_01` },
-    { label = 'Cider', item = 'cider', amount = 4, props = `h4_prop_club_tonic_can`  },
-    { label = 'Multivitamin', item = 'juice', amount = 5, props = `prop_orang_can_01` }, 
+    { label = 'Coca cola', item = 'coke', amount = 2},
+    { label = 'Sprite', item = 'sprite', amount = 3},
+    { label = 'Cider', item = 'cider', amount = 4},
+    { label = 'Multivitamin', item = 'juice', amount = 5}, 
 }
 
 Config.CoolDownTimer = 60
