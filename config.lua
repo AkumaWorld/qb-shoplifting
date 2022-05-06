@@ -10,10 +10,19 @@ Config.AlcoholRewards = {
 }
 
 Config.items = {
-    { label = 'Coca cola', item = 'kurkakola', amount = 2},
-    { label = 'Coffee', item = 'coffee', amount = 3},
-    { label = 'Water Bottle', item = 'water_bottle', amount = 4},
-    { label = 'Lighter', item = 'lighter', amount = 5}, 
+    {label = 'Grilled Sandwich', item = 'tosti'},
+    {label = 'Sandwich', item = 'sandwich'},
+    {label = 'Snikkel bar', item = 'snikkel_candy'},
+    {label = 'Twerks bar', item = 'twerks_candy'},
+    {label = 'Water Bottle', item = 'water_bottle'},
+    {label = 'Coca Cola', item = 'kurkakola'},
+    {label = 'lighter', item = 'lighter'},
+    {label = 'Fireworks', item = 'firework1'},
+    {label = 'Fireworks', item = 'firework2'},
+    {label = 'Bandage', item = 'bandage'},
+    {label = 'Painkillers', item = 'painkillers'},
+    {label = 'Rolling Paper', item = 'rolling_paper'},
+    {label = 'Shenron 7', item = 'shenron7'},
 }
 
 Config.CoolDownTimer = 60
